@@ -1,7 +1,7 @@
 # Ambra-Stella Boecke
 
 **Computational Biologist · Neuro-Oncology · Single-Cell Transcriptomics**  
-University Hospital Freiburg · 3DBM Lab · Freiburg im Breisgau
+University Hospital Freiburg · Freiburg im Breisgau
 
 ---
 
