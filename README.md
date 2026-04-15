@@ -31,11 +31,11 @@ scRNA-seq analysis of primary human meningioma tissue to characterise cellular h
 
 
 
-| scRNA-seq pipelines (Python / R) 
-| PCA, trajectory analysis, cell-type annotation 
-| Gene regulatory & network modelling 
-| Directed graph theory 
-| UNIX · Bash · MATLAB · VSC · RStudio
+-  scRNA-seq pipelines (Python / R) 
+-  PCA, trajectory analysis, cell-type annotation 
+-  Gene regulatory & network modelling 
+-  Directed graph theory 
+-  UNIX · Bash · MATLAB · VSC · RStudio
 
 ---
 
