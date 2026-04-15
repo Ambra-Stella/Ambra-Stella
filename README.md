@@ -51,4 +51,4 @@ scRNA-seq analysis of primary human meningioma tissue to characterise cellular h
 
 ## 📫 Contact
 
-✉ [ambrastella.boecke@gmail.com](mailto:ambrastella.boecke@gmail.com) &nbsp;·&nbsp; 
+· [ambrastella.boecke@gmail.com](mailto:ambrastella.boecke@gmail.com) &nbsp;·&nbsp; 
