@@ -29,13 +29,13 @@ scRNA-seq analysis of primary human meningioma tissue to characterise cellular h
 
 ## 🧠 Skills
 
-| Computational | Experimental |
-|---|---|
-| scRNA-seq pipelines (Python / R) | Human brain & tumour tissue handling |
-| PCA, trajectory analysis, cell-type annotation | Primary cell culture & cell-line establishment |
-| Gene regulatory & network modelling | Immunofluorescence staining & imaging |
-| Directed graph theory | Viral transfection · RNA/DNA extraction |
-| UNIX · Bash · MATLAB | S2 biosafety environment |
+
+
+| scRNA-seq pipelines (Python / R) 
+| PCA, trajectory analysis, cell-type annotation 
+| Gene regulatory & network modelling 
+| Directed graph theory 
+| UNIX · Bash · MATLAB · VSC · RStudio
 
 ---
 
@@ -51,4 +51,4 @@ scRNA-seq analysis of primary human meningioma tissue to characterise cellular h
 
 ## 📫 Contact
 
-✉ [ambrastella.boecke@gmail.com](mailto:ambrastella.boecke@gmail.com) &nbsp;·&nbsp; 🔗 [github.com/Ambra-Stella](https://github.com/Ambra-Stella)
+✉ [ambrastella.boecke@gmail.com](mailto:ambrastella.boecke@gmail.com) &nbsp;·&nbsp; 
